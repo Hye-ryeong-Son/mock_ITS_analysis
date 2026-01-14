@@ -79,7 +79,7 @@ TCCGTAGGTGAACCTGCGG
 GCTGCGTTCTTCATCGATGC
 ```
 
-코드가 정삭적으로 작동시 Mock_sampled_trimmed.fasta 파일이 생성된다. 
+코드가 정상적으로 작동시 Mock_sampled_trimmed.fasta 파일이 생성된다. 
 
 ※ ITS1 , ITS2, ITS 1+2 region을 모두 보고 싶을시 
 
